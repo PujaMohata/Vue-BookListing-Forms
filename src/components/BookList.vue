@@ -39,7 +39,7 @@ export default {
   },
   components: {
     BookItem,
-    BookForm,
+    BookForm
   },
   computed : {
 	filteredBooks(){
